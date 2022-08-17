@@ -1,0 +1,6 @@
+dispatch:
+  - url: "belay-351316.uc.r.appspot.com/"
+    service: default
+
+  - url: "*/tasks/*"
+    service: tasks

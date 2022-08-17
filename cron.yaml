@@ -1,0 +1,4 @@
+cron:
+  - description: unread updates
+    url: /tasks/unread_chats
+    schedule: every 60 minutes
